@@ -3,6 +3,8 @@
 A **genre & rating-based anime recommendation system** built with Python and deployed via Streamlit.  
 Finds similar anime using **Weighted Cosine Similarity** across 28 binary genre features and weighted rating signals.
 
+[Streamlit Deployable Version](https://anime-recommender-port.streamlit.app/)
+
 ---
 
 ## 📁 Project Structure
