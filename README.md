@@ -25,14 +25,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 🌐 Deploy on Streamlit Community Cloud
-
-1. Push this repo to GitHub (already done ✅)
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Connect your GitHub repo → set `app.py` as the entry point
-4. Deploy!
-
-> ⚠️ Make sure `animes.csv` is included in the repo root (it's unignored in `.gitignore`).
 
 ## 🧠 How It Works
 
